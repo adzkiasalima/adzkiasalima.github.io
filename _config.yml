@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://adzkiasalima.github.io
+title: Adzkia Salima
+email: adzkiasalima@gmail.com
+author: Adzkia Salima
+description: My awesome new site
+paginate: 3
+google_analytics: 
